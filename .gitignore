@@ -2,3 +2,4 @@ __pycache__/
 .ipynb_checkpoints/
 data-science/data/celeba/
 data-science/None0000000.png
+.DS_Store
