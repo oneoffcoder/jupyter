@@ -13,3 +13,4 @@ Some data science notebooks.
 * [mvn-conditional](https://nbviewer.jupyter.org/github/oneoffcoder/jupyter/blob/master/data-science/mvn-conditional.ipynb?flush_cache=true)
 * [partial-correlation](https://nbviewer.jupyter.org/github/oneoffcoder/jupyter/blob/master/data-science/partial-correlation.ipynb?flush_cache=true)
 * [precision-recall-roc](https://nbviewer.jupyter.org/github/oneoffcoder/jupyter/blob/master/data-science/precision-recall-roc.ipynb?flush_cache=true)
+* [pca](https://nbviewer.jupyter.org/github/oneoffcoder/jupyter/blob/master/data-science/pca.ipynb?flush_cache=true)
