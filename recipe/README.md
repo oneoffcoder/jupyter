@@ -11,7 +11,7 @@ Some useful Jupyter notebook recipes.
 ```
 @misc{oneoffcoder_jupyter_recipe_2019, 
 title={One-Off Coder Recipe Jupyter Notebooks}, 
-url={https://github.com/oneoffcoder/jupyter/recipe}, 
+url={https://github.com/oneoffcoder/jupyter/tree/master/recipe}, 
 journal={GitHub},
 author={One-Off Coder}, 
 year={2019}, 

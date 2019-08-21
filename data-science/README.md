@@ -20,7 +20,7 @@ Some data science notebooks.
 ```
 @misc{oneoffcoder_jupyter_data_science_2019, 
 title={One-Off Coder Data Science Jupyter Notebooks}, 
-url={https://github.com/oneoffcoder/jupyter/data-science}, 
+url={https://github.com/oneoffcoder/jupyter/tree/master/data-science}, 
 journal={GitHub},
 author={One-Off Coder}, 
 year={2019}, 
