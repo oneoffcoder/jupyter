@@ -3,3 +3,5 @@ __pycache__/
 data-science/data/celeba/
 data-science/None0000000.png
 .DS_Store
+data.db
+data.p
