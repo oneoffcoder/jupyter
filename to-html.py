@@ -4,9 +4,16 @@ import os
 import argparse
 import sys
 
+def clean(line):
+    s = line.strip()
+    if s.startswith('<title>') and s.endswith('</title>'):
+        s = ''
+    s = s.replace('&#182;', '')
+    return s
+
 def minify(file_path):
     with open(file_path, 'r') as fi:
-        lines = [line.strip() for line in fi.readlines() if len(line.strip()) > 0]
+        lines = [clean(line) for line in fi.readlines() if len(line.strip()) > 0]
         s = '\n'.join(lines)
         return s
 
@@ -27,6 +34,10 @@ def do_it(args):
         cmd = f'jupyter nbconvert --to html --template full {file_path}'
         resp = os.popen(cmd).read()
         print(resp)
+        html_path = file_path.replace('.ipynb', '.html')
+        minified_text = minify(html_path)
+        with open(html_path, 'w') as f:
+            f.write(minified_text)
 
 if __name__ == '__main__':
     args = parse_args(sys.argv[1:])
