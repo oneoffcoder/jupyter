@@ -1,3 +1,5 @@
+![One-Off Coder Logo](/logo.png "One-Off Coder")
+
 # Purpose
 
 Notebooks to learn about data science.
@@ -34,3 +36,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+# Contact
+
+[One-Off Coder](https://cloud.docker.com/u/oneoffcoder/) 
+* [Website](https://www.oneoffcoder.com)
+* [Twitter](https://twitter.com/oneoffcoder)
+* [Facebook](https://www.facebook.com/oneoffcoder)
+* [YouTube](https://www.youtube.com/channel/UCCCv8Glpb2dq2mhUj5mcHCQ)

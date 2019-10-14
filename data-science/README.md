@@ -1,3 +1,5 @@
+![One-Off Coder Logo](../logo.png "One-Off Coder")
+
 # Purpose
 
 Some data science notebooks.
